@@ -12,10 +12,20 @@ A Flutter application that generates random word pairs and allows users to save 
 
 ## Screenshots
 
+### Home Page - Word Generator
+![Home Page](home.png)
+*Generate random word pairs and save your favorites*
+
+### Favorites Page
+![Favorites Page](favorites.png)
+*View all your saved favorite word combinations*
+
 The app features a simple, intuitive interface:
 - Large card displaying the current word pair
 - Like button to add/remove from favorites
 - Next button to generate new word pairs
+- Navigation rail to switch between Home and Favorites
+- Responsive design that adapts to screen size
 
 ## Getting Started
 
